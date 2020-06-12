@@ -7,7 +7,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(
   <div className="index">
     <h1>Basic-React-App</h1>
-    <App name="Emmad Raheem"/>
+    <App my_name="Emmad Raheem"/>
   </div>,
   document.getElementById('root')
 );
