@@ -9,6 +9,7 @@ const App = ({name}) => {
             <p>This paragraph is written in App.js <br /> 
             It's a coustom component of index.js which we call <strong>tag</strong> in html language<br />
             I have used <i>function into an arrow method</i> to write a function
+            Updated File!!
             <hr />
             </p>
             <Hello></Hello>
